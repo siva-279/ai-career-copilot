@@ -1,0 +1,32 @@
+{
+  "skills": [
+    "Machine Learning",
+    "Underwriting Prediction Models",
+    "Tabular and Sequential Data Modeling",
+    "Feature Engineering",
+    "Offline Experimentation",
+    "Model Productionization",
+    "Model Monitoring and Instrumentation",
+    "Classification Problems",
+    "Distributed Data Processing",
+    "Code Reviews",
+    "Debugging"
+  ],
+  "tools": [
+    "Python",
+    "LightGBM",
+    "XGBoost",
+    "CatBoost",
+    "PyTorch",
+    "Spark",
+    "Ray",
+    "Dask",
+    "Kubeflow",
+    "Airflow",
+    "MLflow",
+    "Claude Code",
+    "Cursor"
+  ],
+  "seniority": "Mid-level",
+  "years_experience": "2+ years"
+}

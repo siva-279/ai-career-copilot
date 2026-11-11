@@ -1,0 +1,12 @@
+Siva Sava
+MS Data Analytics, Saint Louis University, May 2025
+
+AI ML Engineer, Knowvia, client BNY, Jersey City, NJ
+- AI-driven financial analytics and ML platform work on Azure
+- Python, Azure OpenAI, RAG and LLM applications, MLOps
+
+Programmer Analyst - AI/ML & Data Engineering, Cognizant, client Johnson & Johnson
+- Python, SQL, data engineering, analytics, data pipelines
+
+Skills: Python, SQL, R, Azure, AWS, scikit-learn, Pandas, NumPy, LangChain, RAG, LLM APIs, FastAPI, Docker, Git, GitHub, Power BI, Tableau
+Projects: AI Career Copilot - RAG app, JD to structured JSON, chunking, embeddings, retrieval; SLU data analytics projects

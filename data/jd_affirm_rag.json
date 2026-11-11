@@ -1,0 +1,27 @@
+{
+  "skills": [
+    "machine learning",
+    "Python",
+    "building and evaluating models for classification problems",
+    "distributed data processing",
+    "parallel compute",
+    "code reviews",
+    "verbal and written communication"
+  ],
+  "tools": [
+    "LightGBM",
+    "XGBoost",
+    "CatBoost",
+    "PyTorch",
+    "Spark",
+    "Ray",
+    "Dask",
+    "Kubeflow",
+    "Airflow",
+    "MLflow",
+    "Claude Code",
+    "Cursor"
+  ],
+  "seniority": "I don't know",
+  "years_experience": "2+ years"
+}

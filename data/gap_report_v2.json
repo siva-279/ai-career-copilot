@@ -1,0 +1,178 @@
+{
+  "threshold": 0.65,
+  "matched": [
+    "Machine Learning",
+    "Feature Engineering",
+    "Model Productionization",
+    "Model Monitoring and Instrumentation",
+    "Distributed Data Processing",
+    "Python",
+    "LightGBM",
+    "XGBoost",
+    "CatBoost",
+    "PyTorch",
+    "Spark",
+    "Ray",
+    "Kubeflow",
+    "Airflow",
+    "MLflow"
+  ],
+  "missing": [
+    "Underwriting Prediction Models",
+    "Tabular and Sequential Data Modeling",
+    "Offline Experimentation",
+    "Classification Problems",
+    "Code Reviews",
+    "Debugging",
+    "Dask",
+    "Claude Code",
+    "Cursor"
+  ],
+  "match_percent": 62.5,
+  "details": [
+    {
+      "jd_item": "Machine Learning",
+      "best_match": "machine learning",
+      "score": 0.978,
+      "matched": true
+    },
+    {
+      "jd_item": "Underwriting Prediction Models",
+      "best_match": "ML platform work",
+      "score": 0.619,
+      "matched": false
+    },
+    {
+      "jd_item": "Tabular and Sequential Data Modeling",
+      "best_match": "data pipelines",
+      "score": 0.625,
+      "matched": false
+    },
+    {
+      "jd_item": "Feature Engineering",
+      "best_match": "machine learning",
+      "score": 0.662,
+      "matched": true
+    },
+    {
+      "jd_item": "Offline Experimentation",
+      "best_match": "ML platform work",
+      "score": 0.632,
+      "matched": false
+    },
+    {
+      "jd_item": "Model Productionization",
+      "best_match": "MLOps",
+      "score": 0.694,
+      "matched": true
+    },
+    {
+      "jd_item": "Model Monitoring and Instrumentation",
+      "best_match": "MLOps",
+      "score": 0.665,
+      "matched": true
+    },
+    {
+      "jd_item": "Classification Problems",
+      "best_match": "machine learning",
+      "score": 0.618,
+      "matched": false
+    },
+    {
+      "jd_item": "Distributed Data Processing",
+      "best_match": "data pipelines",
+      "score": 0.686,
+      "matched": true
+    },
+    {
+      "jd_item": "Code Reviews",
+      "best_match": "GitHub",
+      "score": 0.624,
+      "matched": false
+    },
+    {
+      "jd_item": "Debugging",
+      "best_match": "R",
+      "score": 0.626,
+      "matched": false
+    },
+    {
+      "jd_item": "Python",
+      "best_match": "Python",
+      "score": 1.0,
+      "matched": true
+    },
+    {
+      "jd_item": "LightGBM",
+      "best_match": "scikit-learn",
+      "score": 0.668,
+      "matched": true
+    },
+    {
+      "jd_item": "XGBoost",
+      "best_match": "scikit-learn",
+      "score": 0.657,
+      "matched": true
+    },
+    {
+      "jd_item": "CatBoost",
+      "best_match": "scikit-learn",
+      "score": 0.688,
+      "matched": true
+    },
+    {
+      "jd_item": "PyTorch",
+      "best_match": "NumPy",
+      "score": 0.659,
+      "matched": true
+    },
+    {
+      "jd_item": "Spark",
+      "best_match": "R",
+      "score": 0.67,
+      "matched": true
+    },
+    {
+      "jd_item": "Ray",
+      "best_match": "RAG",
+      "score": 0.674,
+      "matched": true
+    },
+    {
+      "jd_item": "Dask",
+      "best_match": "Pandas",
+      "score": 0.648,
+      "matched": false
+    },
+    {
+      "jd_item": "Kubeflow",
+      "best_match": "MLOps",
+      "score": 0.701,
+      "matched": true
+    },
+    {
+      "jd_item": "Airflow",
+      "best_match": "FastAPI",
+      "score": 0.656,
+      "matched": true
+    },
+    {
+      "jd_item": "MLflow",
+      "best_match": "MLOps",
+      "score": 0.692,
+      "matched": true
+    },
+    {
+      "jd_item": "Claude Code",
+      "best_match": "R",
+      "score": 0.611,
+      "matched": false
+    },
+    {
+      "jd_item": "Cursor",
+      "best_match": "R",
+      "score": 0.622,
+      "matched": false
+    }
+  ]
+}

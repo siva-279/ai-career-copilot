@@ -1,0 +1,25 @@
+Machine Learning Engineer II (Underwriting ML) — Affirm, Remote US
+
+On the Underwriting ML team, you'll build and improve machine learning systems that make real-time transaction decisions, assessing the repayment risk and expected value of every Affirm checkout. You'll work closely with experienced ML engineers, platform partners, and cross-functional stakeholders to take models from idea to prototype to production, and to keep them healthy with strong measurement and monitoring as user behavior and macroeconomic conditions evolve.
+
+What you'll do
+- Develop and iterate on underwriting prediction models using a mix of approaches for tabular and sequential data
+- Build and scale feature pipelines and training datasets from proprietary and third-party signals, partnering with data and platform teams when needed
+- Prototype new modeling ideas and features, run offline experiments, and drive the best-performing approaches into production with appropriate risk controls
+- Help productionize models: integrate into batch and/or real-time decision systems, and improve reliability, latency, and operational robustness
+- Instrument and monitor model and data health, and help define retraining/backtesting workflows
+- Collaborate across Engineering, Risk Analytics, Product, and ML Platform to define requirements, evaluate tradeoffs, and communicate results clearly to both technical and non-technical audiences
+
+What we look for
+- 2+ years of experience as a machine learning engineer or a PhD in a relevant field
+- Strong Python skills and experience writing production-quality code
+- Experience building and evaluating models for classification problems (preferably gradient-boosted decision trees like LightGBM/XGBoost/CatBoost, or similar)
+- Experience with a deep learning framework (PyTorch preferred)
+- Experience working with distributed data processing or parallel compute frameworks (Spark preferred; Ray/Dask or similar)
+- Experience with ML lifecycle tooling for training orchestration, experimentation, and model monitoring (e.g., Kubeflow, Airflow, MLflow, or equivalent internal platforms)
+- Proficient in using AI-powered developer tools (e.g., Claude Code, Cursor, or similar) to accelerate iteration, debugging, and code quality
+- Mastered taking a simple problem or business scenario into a solution that interacts with multiple software components, executing it by writing clear, easily understood, well tested and extensible code
+- Comfortable navigating a large code base, debugging others' code, and providing feedback through code reviews
+- Takes ownership of growth, proactively seeking feedback from manager and stakeholders
+- Strong verbal and written communication skills supporting a global engineering team
+- Bachelor's degree in a related field or equivalent practical experience
